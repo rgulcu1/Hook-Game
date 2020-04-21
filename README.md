@@ -7,30 +7,33 @@
 
 
  ### Level Select Screen 
- <img src="/images/levelSelect.png" width="500">
+ <img src="/images/levelSelect.gif" width="500">
 
 
  ### Level 1 
- <img src="/images/level1.png" width="500">
+ <img src="/images/level1.gif" width="500">
 
 
  ### Level 2 
- <img src="/images/level2.png" width="500">
+ <img src="/images/level2.gif" width="500">
 
 
  ### Level 3
- <img src="/images/level3.png" width="500">
+ <img src="/images/level3.gif" width="500">
 
 
  ### Level 4
- <img src="/images/level4.png" width="500">
+ <img src="/images/level4.gif" width="500">
 
  
  ### Level 5
- <img src="/images/level5.png" width="500">
+ <img src="/images/level5.gif" width="500">
 
- ### gif
- <img src="/images/gif.gif" width="500">
+
+ ### Failure Animation
+ <img src="/images/failure.gif" width="500">
+
+
 
 
  
